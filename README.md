@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi all! 👋
 
 I'm a PhD student in Astrophysics & Data Science based in Madrid, Spain. For my PhD I'm working on the application of machine and deep learning 
-techniques to large astronomical surveys. Previously, I worked as a Business Intelligence developer & consultant for the IT consulting firm Cognizant, 
+techniques to large astronomical surveys. Previously, I worked as a Business Intelligence developer & consultant for an international IT consulting firm, 
 where I was focused on data modelling and dashboard development with Qlik Sense. I'm a big fan of data visualisation and delving into 
 topics such as sports and meteorology in my personal projects. 
 

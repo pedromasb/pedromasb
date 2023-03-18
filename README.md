@@ -17,7 +17,7 @@ techniques to large astronomical surveys. Previously, I worked as a Business Int
 where I was focused on data modelling and dashboard development with Qlik Sense. I'm a big fan of data visualisation and delving into 
 topics such as sports and meteorology in my personal projects. 
 
-Outside the office, you can find me playing soccer ⚽ or listening to music 🎶.
+Outside the office, you can find me playing football ⚽ or listening to music 🎶.
 
 - 📖 [Publications](https://ui.adsabs.harvard.edu/search/q=author%3A%22Mas-Buitrago%2C%20P.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
